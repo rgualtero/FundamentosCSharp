@@ -1,0 +1,11 @@
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\bin\Debug\netcoreapp2.1\FundamentosCSharp.deps.json
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\bin\Debug\netcoreapp2.1\FundamentosCSharp.runtimeconfig.json
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\bin\Debug\netcoreapp2.1\FundamentosCSharp.runtimeconfig.dev.json
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\bin\Debug\netcoreapp2.1\FundamentosCSharp.dll
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\bin\Debug\netcoreapp2.1\FundamentosCSharp.pdb
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\obj\Debug\netcoreapp2.1\FundamentosCSharp.csprojAssemblyReference.cache
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\obj\Debug\netcoreapp2.1\FundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\obj\Debug\netcoreapp2.1\FundamentosCSharp.AssemblyInfoInputs.cache
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\obj\Debug\netcoreapp2.1\FundamentosCSharp.AssemblyInfo.cs
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\obj\Debug\netcoreapp2.1\FundamentosCSharp.dll
+C:\Users\Seidor Colombia\source\repos\FundamentosCSharp\FundamentosCSharp\obj\Debug\netcoreapp2.1\FundamentosCSharp.pdb
